@@ -1,2 +1,10 @@
 # project-2
-javascript
+##javascript
+##INTRODUCTION
+Bookmark Maker
+##TECHNOLOGIES
+*html,
+*css,
+*js,*bootstrap
+##CODE
+##html
